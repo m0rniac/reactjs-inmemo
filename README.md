@@ -8,10 +8,10 @@
 
 - Clone repository:
 ```bash
-git clone https://github.com/m0rniac/reactjs-inmemory
+git clone https://github.com/m0rniac/reactjs-inmemo
 ```
 ```bash
-cd reactjs-inmemory/
+cd reactjs-inmemo/
 ```
 - Install dependencies:
 ```bash
